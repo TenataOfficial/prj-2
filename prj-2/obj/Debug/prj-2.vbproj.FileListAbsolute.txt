@@ -1,1 +1,11 @@
 c:\users\tenata\documents\visual studio 2013\Projects\prj-2\prj-2\bin\Debug\prj-2.exe.config
+C:\Users\Tenata\documents\visual studio 2013\Projects\prj-2\prj-2\bin\Debug\prj-2.exe
+C:\Users\Tenata\documents\visual studio 2013\Projects\prj-2\prj-2\bin\Debug\prj-2.pdb
+C:\Users\Tenata\documents\visual studio 2013\Projects\prj-2\prj-2\bin\Debug\prj-2.xml
+C:\Users\Tenata\documents\visual studio 2013\Projects\prj-2\prj-2\obj\Debug\prj_2.Form1.resources
+C:\Users\Tenata\documents\visual studio 2013\Projects\prj-2\prj-2\obj\Debug\prj_2.Resources.resources
+C:\Users\Tenata\documents\visual studio 2013\Projects\prj-2\prj-2\obj\Debug\prj-2.vbproj.GenerateResource.Cache
+C:\Users\Tenata\documents\visual studio 2013\Projects\prj-2\prj-2\obj\Debug\prj-2.exe
+C:\Users\Tenata\documents\visual studio 2013\Projects\prj-2\prj-2\obj\Debug\prj-2.xml
+C:\Users\Tenata\documents\visual studio 2013\Projects\prj-2\prj-2\obj\Debug\prj-2.pdb
+C:\Users\Tenata\documents\visual studio 2013\Projects\prj-2\prj-2\obj\Debug\prj-2.vbprojResolveAssemblyReference.cache
